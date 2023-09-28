@@ -1,0 +1,2 @@
+#!/bin/bin
+chown -h vincent:staff_hello
